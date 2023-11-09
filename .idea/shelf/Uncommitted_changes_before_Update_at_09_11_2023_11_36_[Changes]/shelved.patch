@@ -1,0 +1,18 @@
+Index: Monika_Egle.py
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+>print(\"Labukas nuo Egles\")\r\nprint(\"Labukas nuo Monikos ;) \")\r\nprint(\"Egles antras printas\")
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/Monika_Egle.py b/Monika_Egle.py
+--- a/Monika_Egle.py	(revision 320a62d3460f74513187246e9bdefa83915f73a9)
++++ b/Monika_Egle.py	(date 1699520156685)
+@@ -1,3 +1,4 @@
+ print("Labukas nuo Egles")
+ print("Labukas nuo Monikos ;) ")
+-print("Egles antras printas")
+\ No newline at end of file
++print("Egles antras printas")
++print("antras Monikos printas")
+\ No newline at end of file
